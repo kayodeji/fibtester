@@ -1,0 +1,22 @@
+$ java FibonacciTester
+
+*********** Fibonacci Array of size n = 12 and k = 9. *******************
+1, 1, 2, 3, 5, 8, 13, 21, 34,
+For the Ratio array, the mean is  1.5826 and the standard deviation is  0.2582
+Comparing the sum of the first 9 elements to the result of F(11) - 1. The difference is  = 0
+
+*********** Fibonacci Array of size n = 20 and k = 13. *******************
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233,
+For the Ratio array, the mean is  1.5935 and the standard deviation is  0.2115
+Comparing the sum of the first 13 elements to the result of F(15) - 1. The difference is  = 0
+
+*********** Fibonacci Array of size n = 29 and k = 22. *******************
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946, 17711,
+For the Ratio array, the mean is  1.6036 and the standard deviation is  0.1603
+Comparing the sum of the first 22 elements to the result of F(24) - 1. The difference is  = 0
+
+*********** Fibonacci Array of size n = 42 and k = 39. *******************
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946, 17711, 28657, 46368, 75025, 121393,
+196418, 317811, 514229, 832040, 1346269, 2178309, 3524578, 5702887, 9227465, 14930352, 24157817, 39088169, 63245986,
+For the Ratio array, the mean is  1.6099 and the standard deviation is  0.1194
+Comparing the sum of the first 39 elements to the result of F(41) - 1. The difference is  = 0
